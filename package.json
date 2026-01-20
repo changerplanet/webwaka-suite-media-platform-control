@@ -1,0 +1,8 @@
+{
+  "name": "webwaka-suite-media-platform-control",
+  "version": "0.1.0",
+  "description": "WebWaka media-platform suite - control",
+  "scripts": {
+    "test": "echo 'No tests yet' && exit 0"
+  }
+}
